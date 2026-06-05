@@ -1,0 +1,6 @@
+{
+  "name": "ScripKu",
+  "description": "AI co-writer untuk penulis naskah film dan skrip video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
